@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @livgozdek
 - 👀 I’m interested in data analytics and developing innovative styles of metrics to measure things like cultural progress, social impact and joy!
-- 🌱 I’m currently learning "Intro to Computer Science" with ReDi school in Berlin and will then join a Data Science bootcamp!
+- 🌱 I’m currently working as a Community Research Analyst for Talent House (SQL)
 - 💞️ I’m looking to collaborate on projects that fuse the quantitive with the qualitative (I was trained as an Anthropologist)
 - 📫 How to reach me - send me a message on here?
