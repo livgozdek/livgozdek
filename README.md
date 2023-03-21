@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @livgozdek
-- 👀 I’m interested in data analytics and developing innovative styles of metrics to measure things like cultural progress, social impact and joy!
-- 🌱 I’m currently working as a Community Research Analyst for Talent House (SQL)
+- 👀 I’m interested in data analytics and developing innovative styles of metrics to measure things like cultural progress, social impact and sustainable development!
+- 🌱 I’m on the hunt for roles as a Data Analyst and Data Team Lead
 - 💞️ I’m looking to collaborate on projects that fuse the quantitive with the qualitative (I was trained as an Anthropologist)
 - 📫 How to reach me - send me a message on here?
